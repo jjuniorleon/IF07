@@ -8,9 +8,9 @@
 ## Exemplos do programa
 ![EXEMPLO 1º MAIOR](https://github.com/jjuniorleon/IF07/blob/main/assets/if_7_exp_1.png)
 #
-![EXEMPLO 2º MAIOR](https://github.com/jjuniorleon/IF07/blob/main/assets/if_7_exp_2.png)
+![EXEMPLO 2º MAIOR](https://github.com/jjuniorleon/IF07/blob/main/assets/if_7_exp_3.png)
 #
-![EXEMPLO 3º MAIOR](https://github.com/jjuniorleon/IF07/blob/main/assets/if_7_exp_3.png)
+![EXEMPLO 3º MAIOR](https://github.com/jjuniorleon/IF07/blob/main/assets/if_7_exp_2%20.png)
 
 # Tecnologias utilizadas
 ## Back end
